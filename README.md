@@ -1,5 +1,5 @@
 # AC-FIB
 
-Arquitectura d Computadors
+Arquitectura de Computadors
 
 Pràctiques de laboratori i exercicis
